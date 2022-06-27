@@ -111,7 +111,7 @@
      }
 
      public function canRoll() {
-         return $this->throws <
+         return $this->throws;
      }
  }
 
